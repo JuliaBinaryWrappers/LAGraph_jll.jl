@@ -1,0 +1,15 @@
+name = "LAGraph_jll"
+uuid = "51243bbd-983c-5006-9250-ac9a1da43bd7"
+version = "1.0.2+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+SSGraphBLAS_jll = "7ed9a814-9cab-54e9-8e9e-d9e95b4d61b1"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"

@@ -1,0 +1,143 @@
+[[LAGraph]]
+arch = "aarch64"
+git-tree-sha1 = "b7273efc9ae236955883159df4f05a429f121741"
+os = "macos"
+
+    [[LAGraph.download]]
+    sha256 = "7dfdea8cc005509b3c36e0bffb1646c35642f7aeb9403ebcc9e86021ef337d58"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.aarch64-apple-darwin.tar.gz"
+[[LAGraph]]
+arch = "aarch64"
+git-tree-sha1 = "a6b158db9d9ff59d3b0368c0509ede44da576ca7"
+libc = "glibc"
+os = "linux"
+
+    [[LAGraph.download]]
+    sha256 = "5726464c47aafe914507cc5ab6fc7a8ae1a4222a83a0619b899af760fef68457"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.aarch64-linux-gnu.tar.gz"
+[[LAGraph]]
+arch = "aarch64"
+git-tree-sha1 = "098632d01e12af9fddb0427b5f03ca54701d53e6"
+libc = "musl"
+os = "linux"
+
+    [[LAGraph.download]]
+    sha256 = "f2deca25dcc5329832f1d0a5c1db9aef3e627534e74d2d519bbf91a06fe04b8d"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.aarch64-linux-musl.tar.gz"
+[[LAGraph]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "20f3e94d0f73ce86d3b35022d73b3dfd90ebfeb1"
+libc = "glibc"
+os = "linux"
+
+    [[LAGraph.download]]
+    sha256 = "13940bac75738a44b166300e7860f930ef95180c000abda2c92af0db90a7a523"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.armv6l-linux-gnueabihf.tar.gz"
+[[LAGraph]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e12269cc65ce60cb03c9fb6cfe4b348c1d495d4d"
+libc = "musl"
+os = "linux"
+
+    [[LAGraph.download]]
+    sha256 = "0ad5319de913e0571c0288b9a1f43ff44ba414bcbdb42561d1b5ea78b3d1959f"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.armv6l-linux-musleabihf.tar.gz"
+[[LAGraph]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0b5ba39156f32c6e837d16948994efade200ad44"
+libc = "glibc"
+os = "linux"
+
+    [[LAGraph.download]]
+    sha256 = "1e851737cbe44546015dd0f701cc8a9d8b1dc7de5794b28f336ab0b5e702e9cc"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.armv7l-linux-gnueabihf.tar.gz"
+[[LAGraph]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b5e53142022c1b477b9a9de0ce20a98598264556"
+libc = "musl"
+os = "linux"
+
+    [[LAGraph.download]]
+    sha256 = "198429c9e77644deb8d8c419a29fa141edebd5fea1d09d91520002c16fd9d50d"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.armv7l-linux-musleabihf.tar.gz"
+[[LAGraph]]
+arch = "i686"
+git-tree-sha1 = "81f3f718178078bd46655629070722fa1b385df6"
+libc = "glibc"
+os = "linux"
+
+    [[LAGraph.download]]
+    sha256 = "5fb5db3737e3369356a5d6536a9658593ae3f967327d3c03e0ee8f4d986905a2"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.i686-linux-gnu.tar.gz"
+[[LAGraph]]
+arch = "i686"
+git-tree-sha1 = "09e0adc61554ab55de314b6128d8101e61f51491"
+libc = "musl"
+os = "linux"
+
+    [[LAGraph.download]]
+    sha256 = "bde314c307c7f6bff7ab9e030d79e8b10996c363dd528fce36b097167aaf45ae"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.i686-linux-musl.tar.gz"
+[[LAGraph]]
+arch = "i686"
+git-tree-sha1 = "e37922582f754299e18388529e4121caad1b8fdd"
+os = "windows"
+
+    [[LAGraph.download]]
+    sha256 = "90c2430524e8d0ae82250b1c50e3e31ff7bd1156a20b684d98d448ea40f974f0"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.i686-w64-mingw32.tar.gz"
+[[LAGraph]]
+arch = "powerpc64le"
+git-tree-sha1 = "19641ec50d82074a055bfb0bcd6b0c4d2fce286f"
+libc = "glibc"
+os = "linux"
+
+    [[LAGraph.download]]
+    sha256 = "b5b69f97fff9a7235e47ef93ca3fe08f8f77b357d53027490e06952902dada12"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.powerpc64le-linux-gnu.tar.gz"
+[[LAGraph]]
+arch = "x86_64"
+git-tree-sha1 = "6e0a967ee030095173364918abe6836138b0f7d9"
+os = "macos"
+
+    [[LAGraph.download]]
+    sha256 = "fd571fb3d843ad6fa73307d8ee8d3fe07473adc25114d6945358dfc503a1443b"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.x86_64-apple-darwin.tar.gz"
+[[LAGraph]]
+arch = "x86_64"
+git-tree-sha1 = "b4b1bf617a4c86a2455fd692d701f55449912db2"
+libc = "glibc"
+os = "linux"
+
+    [[LAGraph.download]]
+    sha256 = "c86e48810ba2ae57ca4fa536101f6daa12be2cd4dbd8628854a9b4367bc79e8a"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.x86_64-linux-gnu.tar.gz"
+[[LAGraph]]
+arch = "x86_64"
+git-tree-sha1 = "c68bcbeb9bb54f923a1392f779898ab2375be4d8"
+libc = "musl"
+os = "linux"
+
+    [[LAGraph.download]]
+    sha256 = "2675fd63ee8a0c0b6f53885216dd393d71156adab2d6cd3bd1ec48e60fe91403"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.x86_64-linux-musl.tar.gz"
+[[LAGraph]]
+arch = "x86_64"
+git-tree-sha1 = "4af47ee35285d0d03a6c2fc9255c5ed6df9d9a65"
+os = "freebsd"
+
+    [[LAGraph.download]]
+    sha256 = "db5174aef2792ace8284d50da331feff36b99f71eb429807a645feb1db5b95c7"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.x86_64-unknown-freebsd.tar.gz"
+[[LAGraph]]
+arch = "x86_64"
+git-tree-sha1 = "104a2e2dd337aa53ae45b28a3f2f8f6af64e90cc"
+os = "windows"
+
+    [[LAGraph.download]]
+    sha256 = "9f2dcff6df1a5c3f30a763e031c2b49ed094f3b5e86112a72cfb15f7533d8e9d"
+    url = "https://github.com/JuliaBinaryWrappers/LAGraph_jll.jl/releases/download/LAGraph-v1.0.2+0/LAGraph.v1.0.2.x86_64-w64-mingw32.tar.gz"
