@@ -10,13 +10,13 @@ function __init__()
     JLLWrappers.@generate_init_header(SSGraphBLAS_jll, LLVMOpenMP_jll)
     JLLWrappers.@init_library_product(
         liblagraph,
-        "lib/liblagraph.1.0.2.dylib",
+        "lib/liblagraph.1.2.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         liblagraphx,
-        "lib/liblagraphx.1.0.2.dylib",
+        "lib/liblagraphx.1.2.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
